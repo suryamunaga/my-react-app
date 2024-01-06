@@ -1,0 +1,16 @@
+.menu{
+    padding:0;
+    margin: 0;
+    font-size: larger;
+    font-family: monospace;
+    background: olivedrab;
+    list-style-type: none;
+    text-align: right;
+}
+.menu>li{
+    font-weight: bold;
+    cursor: pointer;
+    display: inline;
+    letter-spacing: 7px;
+    margin: 10px;
+}
